@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_EducationBackendFinal.-1725545311.00" t="ExcludeRecursive" />
+    <e p="C:\Users\User\Desktop\my projects\ASP\EducationBackendFinal-21-09-2020" t="IncludeRecursive">
+      <e p="appsettings.json" t="Include" />
+      <e p="Areas" t="Include">
+        <e p="Admin" t="Include">
+          <e p="Controllers" t="Include">
+            <e p="BiosController.cs" t="Include" />
+            <e p="CategoryController.cs" t="Include" />
+            <e p="ContactsController.cs" t="Include" />
+            <e p="CourseController.cs" t="Include" />
+            <e p="CreateSliderController.cs" t="Include" />
+            <e p="Dashboard.cs" t="Include" />
+            <e p="EventController.cs" t="Include" />
+            <e p="HomeBioController.cs" t="Include" />
+            <e p="RolesController.cs" t="Include" />
+            <e p="SkillController.cs" t="Include" />
+            <e p="SpeakerController.cs" t="Include" />
+            <e p="TeacherController.cs" t="Include" />
+            <e p="TestimonialController.cs" t="Include" />
+            <e p="UsersController.cs" t="Include" />
+            <e p="WelcomeAboutController.cs" t="Include" />
+            <e p="WhyUsController.cs" t="Include" />
+          </e>
+          <e p="Data" t="Include" />
+          <e p="Models" t="Include" />
+          <e p="Views" t="Include">
+            <e p="_ViewImports.cshtml" t="Include" />
+            <e p="_ViewStart.cshtml" t="Include" />
+            <e p="Bios" t="Include">
+              <e p="Index.cshtml" t="Include" />
+              <e p="Update.cshtml" t="Include" />
+            </e>
+            <e p="Category" t="Include">
+              <e p="Create.cshtml" t="Include" />
+              <e p="Index.cshtml" t="Include" />
+              <e p="Update.cshtml" t="Include" />
+            </e>
+            <e p="Contacts" t="Include">
+              <e p="Index.cshtml" t="Include" />
+              <e p="Update.cshtml" t="Include" />
+            </e>
+            <e p="Course" t="Include">
+              <e p="Create.cshtml" t="Include" />
+              <e p="Delete.cshtml" t="Include" />
+              <e p="Detail.cshtml" t="Include" />
+              <e p="Index.cshtml" t="Include" />
+              <e p="Update.cshtml" t="Include" />
+            </e>
+            <e p="CreateSlider" t="Include">
+              <e p="Create.cshtml" t="Include" />
+              <e p="Delete.cshtml" t="Include" />
+              <e p="Detail.cshtml" t="Include" />
+              <e p="Index.cshtml" t="Include" />
+              <e p="Update.cshtml" t="Include" />
+            </e>
+            <e p="Dashboard" t="Include">
+              <e p="Index.cshtml" t="Include" />
+            </e>
+            <e p="Event" t="Include">
+              <e p="Create.cshtml" t="Include" />
+              <e p="Delete.cshtml" t="Include" />
+              <e p="Detail.cshtml" t="Include" />
+              <e p="Index.cshtml" t="Include" />
+              <e p="Update.cshtml" t="Include" />
+            </e>
+            <e p="HomeBio" t="Include">
+              <e p="Index.cshtml" t="Include" />
+              <e p="Update.cshtml" t="Include" />
+            </e>
+            <e p="Roles" t="Include">
+              <e p="Create.cshtml" t="Include" />
+              <e p="Edit.cshtml" t="Include" />
+              <e p="Index.cshtml" t="Include" />
+              <e p="UserList.cshtml" t="Include" />
+            </e>
+            <e p="Shared" t="Include">
+              <e p="_AdminLayout.cshtml" t="Include" />
+              <e p="_PartialSuccess.cshtml" t="Include" />
+              <e p="_partialValidation.cshtml" t="Include" />
+              <e p="_Validation.cshtml" t="Include" />
+            </e>
+            <e p="Skill" t="Include">
+              <e p="Create.cshtml" t="Include" />
+              <e p="Index.cshtml" t="Include" />
+              <e p="Update.cshtml" t="Include" />
+            </e>
+            <e p="Speaker" t="Include">
+              <e p="Create.cshtml" t="Include" />
+              <e p="Delete.cshtml" t="Include" />
+              <e p="Detail.cshtml" t="Include" />
+              <e p="Index.cshtml" t="Include" />
+              <e p="Update.cshtml" t="Include" />
+            </e>
+            <e p="Teacher" t="Include">
+              <e p="Create.cshtml" t="Include" />
+              <e p="Delete.cshtml" t="Include" />
+              <e p="Detail.cshtml" t="Include" />
+              <e p="Index.cshtml" t="Include" />
+              <e p="Update.cshtml" t="Include" />
+            </e>
+            <e p="Testimonial" t="Include">
+              <e p="Create.cshtml" t="Include" />
+              <e p="Delete.cshtml" t="Include" />
+              <e p="Index.cshtml" t="Include" />
+              <e p="Update.cshtml" t="Include" />
+            </e>
+            <e p="Users" t="Include">
+              <e p="Create.cshtml" t="Include" />
+              <e p="DeleteList.cshtml" t="Include" />
+              <e p="Details.cshtml" t="Include" />
+              <e p="Index.cshtml" t="Include" />
+              <e p="IsActivate.cshtml" t="Include" />
+            </e>
+            <e p="WelcomeAbout" t="Include">
+              <e p="Index.cshtml" t="Include" />
+              <e p="Update.cshtml" t="Include" />
+            </e>
+            <e p="WhyUs" t="Include">
+              <e p="Index.cshtml" t="Include" />
+              <e p="Update.cshtml" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Backpac.bacpac" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Controllers" t="Include">
+        <e p="AboutController.cs" t="Include" />
+        <e p="AccountController.cs" t="Include" />
+        <e p="AjaxController.cs" t="Include" />
+        <e p="BlogController.cs" t="Include" />
+        <e p="ContactController.cs" t="Include" />
+        <e p="CoursesController.cs" t="Include" />
+        <e p="EventController.cs" t="Include" />
+        <e p="HomeController.cs" t="Include" />
+        <e p="TeacherController.cs" t="Include" />
+      </e>
+      <e p="DAL" t="Include">
+        <e p="AppDbContext.cs" t="Include" />
+      </e>
+      <e p="EducationBackendFinal.csproj" t="IncludeRecursive" />
+      <e p="EducationBackendFinal.sln" t="IncludeFlat" />
+      <e p="Extentions" t="Include">
+        <e p="Extention.cs" t="Include" />
+      </e>
+      <e p="Helpers" t="Include">
+        <e p="Helper.cs" t="Include" />
+        <e p="IdentityErrosDescriptionAz.cs" t="Include" />
+      </e>
+      <e p="Interfaces" t="Include">
+        <e p="IEmailService.cs" t="Include" />
+      </e>
+      <e p="Mapper" t="Include">
+        <e p="MappingProfiles.cs" t="Include" />
+        <e p="SpeakerId.cs" t="Include" />
+      </e>
+      <e p="Migrations" t="Include">
+        <e p="20200910203138_CreateInitialSliderTable.cs" t="Include" />
+        <e p="20200910203138_CreateInitialSliderTable.Designer.cs" t="Include" />
+        <e p="20200910211414_CreateNoticeBoardTable.cs" t="Include" />
+        <e p="20200910211414_CreateNoticeBoardTable.Designer.cs" t="Include" />
+        <e p="20200910212956_CreatedNoticeInfo.cs" t="Include" />
+        <e p="20200910212956_CreatedNoticeInfo.Designer.cs" t="Include" />
+        <e p="20200910213953_addWhyUstable.cs" t="Include" />
+        <e p="20200910213953_addWhyUstable.Designer.cs" t="Include" />
+        <e p="20200910215256_CreatedCourseTable.cs" t="Include" />
+        <e p="20200910215256_CreatedCourseTable.Designer.cs" t="Include" />
+        <e p="20200910224603_CreateUpCominEvents.cs" t="Include" />
+        <e p="20200910224603_CreateUpCominEvents.Designer.cs" t="Include" />
+        <e p="20200910230845_addOrderColumnToUpCominEventsTable.cs" t="Include" />
+        <e p="20200910230845_addOrderColumnToUpCominEventsTable.Designer.cs" t="Include" />
+        <e p="20200911062723_createTestimonialsTable.cs" t="Include" />
+        <e p="20200911062723_createTestimonialsTable.Designer.cs" t="Include" />
+        <e p="20200911065800_cretaeblogtable.cs" t="Include" />
+        <e p="20200911065800_cretaeblogtable.Designer.cs" t="Include" />
+        <e p="20200911081606_createWelcomeAboutTable.cs" t="Include" />
+        <e p="20200911081606_createWelcomeAboutTable.Designer.cs" t="Include" />
+        <e p="20200911084102_CreatedBioTable.cs" t="Include" />
+        <e p="20200911084102_CreatedBioTable.Designer.cs" t="Include" />
+        <e p="20200911093835_CreatedTeacherTable.cs" t="Include" />
+        <e p="20200911093835_CreatedTeacherTable.Designer.cs" t="Include" />
+        <e p="20200911104239_CreatedVideoTourTable.cs" t="Include" />
+        <e p="20200911104239_CreatedVideoTourTable.Designer.cs" t="Include" />
+        <e p="20200911111246_AddedUpCaming.cs" t="Include" />
+        <e p="20200911111246_AddedUpCaming.Designer.cs" t="Include" />
+        <e p="20200911121044_createContactTable.cs" t="Include" />
+        <e p="20200911121044_createContactTable.Designer.cs" t="Include" />
+        <e p="20200912083707_createidentityuser.cs" t="Include" />
+        <e p="20200912083707_createidentityuser.Designer.cs" t="Include" />
+        <e p="20200914082201_AddSpeakerEventTable.cs" t="Include" />
+        <e p="20200914082201_AddSpeakerEventTable.Designer.cs" t="Include" />
+        <e p="20200916052847_addsomecolumttocoursetable.cs" t="Include" />
+        <e p="20200916052847_addsomecolumttocoursetable.Designer.cs" t="Include" />
+        <e p="20200916070926_createcategorytable.cs" t="Include" />
+        <e p="20200916070926_createcategorytable.Designer.cs" t="Include" />
+        <e p="20200916075304_AddedCategoryAndEventTable.cs" t="Include" />
+        <e p="20200916075304_AddedCategoryAndEventTable.Designer.cs" t="Include" />
+        <e p="20200916105530_AddCourseUserTable.cs" t="Include" />
+        <e p="20200916105530_AddCourseUserTable.Designer.cs" t="Include" />
+        <e p="20200916125147_AddColumnIsDeleted.cs" t="Include" />
+        <e p="20200916125147_AddColumnIsDeleted.Designer.cs" t="Include" />
+        <e p="20200916155030_AddCategoryTable.cs" t="Include" />
+        <e p="20200916155030_AddCategoryTable.Designer.cs" t="Include" />
+        <e p="20200916172612_createteacherusertable.cs" t="Include" />
+        <e p="20200916172612_createteacherusertable.Designer.cs" t="Include" />
+        <e p="20200916180602_addrelationteachercategorytable.cs" t="Include" />
+        <e p="20200916180602_addrelationteachercategorytable.Designer.cs" t="Include" />
+        <e p="20200916192048_AddedColumnIsdeletedTeacher.cs" t="Include" />
+        <e p="20200916192048_AddedColumnIsdeletedTeacher.Designer.cs" t="Include" />
+        <e p="20200917102126_AddCategoryCourseRelationCourseAndCategory.cs" t="Include" />
+        <e p="20200917102126_AddCategoryCourseRelationCourseAndCategory.Designer.cs" t="Include" />
+        <e p="20200917152704_CreateHomeBioTable.cs" t="Include" />
+        <e p="20200917152704_CreateHomeBioTable.Designer.cs" t="Include" />
+        <e p="20200918130223_changedbsetCoursecategory.cs" t="Include" />
+        <e p="20200918130223_changedbsetCoursecategory.Designer.cs" t="Include" />
+        <e p="20200918150103_ChangeSkillTable.cs" t="Include" />
+        <e p="20200918150103_ChangeSkillTable.Designer.cs" t="Include" />
+        <e p="20200918191556_AddedSubscription.cs" t="Include" />
+        <e p="20200918191556_AddedSubscription.Designer.cs" t="Include" />
+        <e p="20200919065636_addnewcolmuncoursetable.cs" t="Include" />
+        <e p="20200919065636_addnewcolmuncoursetable.Designer.cs" t="Include" />
+        <e p="20200919085434_addnewcolumntteachertable.cs" t="Include" />
+        <e p="20200919085434_addnewcolumntteachertable.Designer.cs" t="Include" />
+        <e p="20200919151622_AddedSpeakerIsDeletedTable.cs" t="Include" />
+        <e p="20200919151622_AddedSpeakerIsDeletedTable.Designer.cs" t="Include" />
+        <e p="AppDbContextModelSnapshot.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="AppUser.cs" t="Include" />
+        <e p="BaseEntity.cs" t="Include" />
+        <e p="Bio.cs" t="Include" />
+        <e p="Blog.cs" t="Include" />
+        <e p="Category.cs" t="Include" />
+        <e p="Contact.cs" t="Include" />
+        <e p="Course.cs" t="Include" />
+        <e p="CourseCategory.cs" t="Include" />
+        <e p="CourseUser.cs" t="Include" />
+        <e p="HomeBio.cs" t="Include" />
+        <e p="NoticeBoard.cs" t="Include" />
+        <e p="NoticeRightInfo.cs" t="Include" />
+        <e p="Skill.cs" t="Include" />
+        <e p="Slider.cs" t="Include" />
+        <e p="Speaker.cs" t="Include" />
+        <e p="SpeakerEvent.cs" t="Include" />
+        <e p="Subscription.cs" t="Include" />
+        <e p="Teacher.cs" t="Include" />
+        <e p="TeacherUser.cs" t="Include" />
+        <e p="Testimonial.cs" t="Include" />
+        <e p="UpComingEvent.cs" t="Include" />
+        <e p="VideoTour.cs" t="Include" />
+        <e p="WelcomeAbout.cs" t="Include" />
+        <e p="WhyUs.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.1" t="Include">
+            <e p="EducationBackendFinal.AssemblyInfo.cs" t="Include" />
+            <e p="EducationBackendFinal.RazorAssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="README.md" t="Include" />
+      <e p="ScaffoldingReadMe.txt" t="Include" />
+      <e p="Services" t="Include">
+        <e p="EmailService.cs" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="ViewComponents" t="Include">
+        <e p="BlogViewComponent.cs" t="Include" />
+        <e p="CategoryViewComponent.cs" t="Include" />
+        <e p="CourseViewComponent.cs" t="Include" />
+        <e p="FooterViewComponent.cs" t="Include" />
+        <e p="HeaderViewComponent.cs" t="Include" />
+        <e p="LatestPostViewComponent.cs" t="Include" />
+        <e p="TeacherViewComponent.cs" t="Include" />
+      </e>
+      <e p="ViewModels" t="Include">
+        <e p="AboutVm.cs" t="Include" />
+        <e p="ChangeRoleVM.cs" t="Include" />
+        <e p="Course" t="Include">
+          <e p="CourseCreateVM.cs" t="Include" />
+          <e p="CourseEditVM.cs" t="Include" />
+        </e>
+        <e p="CreateSliderVM.cs" t="Include" />
+        <e p="Event" t="Include">
+          <e p="EventVm.cs" t="Include" />
+          <e p="UpComingEventCreateVM.cs" t="Include" />
+          <e p="UpComingEventEditVM.cs" t="Include" />
+          <e p="UpComingGetVm.cs" t="Include" />
+        </e>
+        <e p="HomeVm.cs" t="Include" />
+        <e p="SearchVm.cs" t="Include" />
+        <e p="SpeakerCreateVM.cs" t="Include" />
+        <e p="SpeakerEditVM.cs" t="Include" />
+        <e p="Teacher" t="Include">
+          <e p="TeacherCreateVm.cs" t="Include" />
+          <e p="TeacherEditVM.cs" t="Include" />
+        </e>
+        <e p="User" t="Include">
+          <e p="LoginVm.cs" t="Include" />
+          <e p="RegisterVm.cs" t="Include" />
+        </e>
+        <e p="UserRoleVM.cs" t="Include" />
+      </e>
+      <e p="Views" t="Include">
+        <e p="_ViewImports.cshtml" t="Include" />
+        <e p="_ViewStart.cshtml" t="Include" />
+        <e p="About" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Account" t="Include">
+          <e p="Login.cshtml" t="Include" />
+          <e p="Register.cshtml" t="Include" />
+        </e>
+        <e p="Blog" t="Include">
+          <e p="Detail.cshtml" t="Include" />
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Contact" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Courses" t="Include">
+          <e p="Detail.cshtml" t="Include" />
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Event" t="Include">
+          <e p="Detail.cshtml" t="Include" />
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Home" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Shared" t="Include">
+          <e p="_HomeLayout.cshtml" t="Include" />
+          <e p="_Layout.cshtml" t="Include" />
+          <e p="_partialBanner.cshtml" t="Include" />
+          <e p="_partialCourse.cshtml" t="Include" />
+          <e p="_partialSearch.cshtml" t="Include" />
+          <e p="_partialSubscribe.cshtml" t="Include" />
+          <e p="Components" t="Include">
+            <e p="Blog" t="Include">
+              <e p="Default.cshtml" t="Include" />
+            </e>
+            <e p="Category" t="Include">
+              <e p="Default.cshtml" t="Include" />
+            </e>
+            <e p="Course" t="Include">
+              <e p="Default.cshtml" t="Include" />
+            </e>
+            <e p="Footer" t="Include">
+              <e p="Default.cshtml" t="Include" />
+            </e>
+            <e p="Header" t="Include">
+              <e p="Default.cshtml" t="Include" />
+            </e>
+            <e p="LatestPost" t="Include">
+              <e p="Default.cshtml" t="Include" />
+            </e>
+            <e p="Teacher" t="Include">
+              <e p="Default.cshtml" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Teacher" t="Include">
+          <e p="Detail.cshtml" t="Include" />
+          <e p="Index.cshtml" t="Include" />
+        </e>
+      </e>
+      <e p="wwwroot" t="Include">
+        <e p="Admin" t="Include">
+          <e p="css" t="Include">
+            <e p="maps" t="Include">
+              <e p="style.css.map" t="Include" />
+            </e>
+            <e p="style.css" t="Include" />
+          </e>
+          <e p="fonts" t="Include">
+            <e p="Roboto" t="Include">
+              <e p="Roboto-Black.eot" t="Include" />
+              <e p="Roboto-Black.ttf" t="Include" />
+              <e p="Roboto-Black.woff" t="Include" />
+              <e p="Roboto-Black.woff2" t="Include" />
+              <e p="Roboto-Bold.eot" t="Include" />
+              <e p="Roboto-Bold.ttf" t="Include" />
+              <e p="Roboto-Bold.woff" t="Include" />
+              <e p="Roboto-Bold.woff2" t="Include" />
+              <e p="Roboto-Light.eot" t="Include" />
+              <e p="Roboto-Light.ttf" t="Include" />
+              <e p="Roboto-Light.woff" t="Include" />
+              <e p="Roboto-Light.woff2" t="Include" />
+              <e p="Roboto-Medium.eot" t="Include" />
+              <e p="Roboto-Medium.ttf" t="Include" />
+              <e p="Roboto-Medium.woff" t="Include" />
+              <e p="Roboto-Medium.woff2" t="Include" />
+              <e p="Roboto-Regular.eot" t="Include" />
+              <e p="Roboto-Regular.ttf" t="Include" />
+              <e p="Roboto-Regular.woff" t="Include" />
+              <e p="Roboto-Regular.woff2" t="Include" />
+            </e>
+          </e>
+          <e p="images" t="Include">
+            <e p="auth" t="Include">
+              <e p="lockscreen-bg.jpg" t="Include" />
+              <e p="login-bg.jpg" t="Include" />
+              <e p="register-bg.jpg" t="Include" />
+            </e>
+            <e p="faces" t="Include">
+              <e p="face1.jpg" t="Include" />
+              <e p="face10.jpg" t="Include" />
+              <e p="face11.jpg" t="Include" />
+              <e p="face12.jpg" t="Include" />
+              <e p="face13.jpg" t="Include" />
+              <e p="face14.jpg" t="Include" />
+              <e p="face15.jpg" t="Include" />
+              <e p="face16.jpg" t="Include" />
+              <e p="face17.jpg" t="Include" />
+              <e p="face18.jpg" t="Include" />
+              <e p="face19.jpg" t="Include" />
+              <e p="face2.jpg" t="Include" />
+              <e p="face20.jpg" t="Include" />
+              <e p="face21.jpg" t="Include" />
+              <e p="face22.jpg" t="Include" />
+              <e p="face23.jpg" t="Include" />
+              <e p="face24.jpg" t="Include" />
+              <e p="face25.jpg" t="Include" />
+              <e p="face26.jpg" t="Include" />
+              <e p="face27.jpg" t="Include" />
+              <e p="face3.jpg" t="Include" />
+              <e p="face4.jpg" t="Include" />
+              <e p="face5.jpg" t="Include" />
+              <e p="face6.jpg" t="Include" />
+              <e p="face7.jpg" t="Include" />
+              <e p="face8.jpg" t="Include" />
+              <e p="face9.jpg" t="Include" />
+            </e>
+            <e p="favicon.png" t="Include" />
+            <e p="logo-mini.svg" t="Include" />
+            <e p="logo.svg" t="Include" />
+          </e>
+          <e p="js" t="Include">
+            <e p="chart.js" t="Include" />
+            <e p="Chart.min.js" t="Include" />
+            <e p="dashboard.js" t="Include" />
+            <e p="data-table.js" t="Include" />
+            <e p="dataTables.bootstrap4.js" t="Include" />
+            <e p="documentation.js" t="Include" />
+            <e p="file-upload.js" t="Include" />
+            <e p="hoverable-collapse.js" t="Include" />
+            <e p="jquery.dataTables.js" t="Include" />
+            <e p="off-canvas.js" t="Include" />
+            <e p="tabs.js" t="Include" />
+            <e p="template.js" t="Include" />
+          </e>
+          <e p="vendors" t="Include">
+            <e p="base" t="Include">
+              <e p="bootstrap.min.js.map" t="Include" />
+              <e p="vendor.bundle.base.css" t="Include" />
+              <e p="vendor.bundle.base.js" t="Include" />
+            </e>
+            <e p="chart.js" t="Include">
+              <e p="Chart.min.js" t="Include" />
+            </e>
+            <e p="datatables.net" t="Include">
+              <e p="jquery.dataTables.js" t="Include" />
+            </e>
+            <e p="datatables.net-bs4" t="Include">
+              <e p="dataTables.bootstrap4.css" t="Include" />
+              <e p="dataTables.bootstrap4.js" t="Include" />
+            </e>
+            <e p="mdi" t="Include">
+              <e p="css" t="Include">
+                <e p="materialdesignicons.min.css" t="Include" />
+                <e p="materialdesignicons.min.css.map" t="Include" />
+              </e>
+              <e p="fonts" t="Include">
+                <e p="materialdesignicons-webfont.eot" t="Include" />
+                <e p="materialdesignicons-webfont.svg" t="Include" />
+                <e p="materialdesignicons-webfont.ttf" t="Include" />
+                <e p="materialdesignicons-webfont.woff" t="Include" />
+                <e p="materialdesignicons-webfont.woff2" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="css" t="Include">
+          <e p="animate.css" t="Include" />
+          <e p="bootstrap.min.css" t="Include" />
+          <e p="et-line-icon.css" t="Include" />
+          <e p="font-awesome.min.css" t="Include" />
+          <e p="ionicons.min.css" t="Include" />
+          <e p="magnific-popup.css" t="Include" />
+          <e p="material-design-iconic-font.min.css" t="Include" />
+          <e p="meanmenu.css" t="Include" />
+          <e p="owl.carousel.min.css" t="Include" />
+          <e p="owl.video.play.png" t="Include" />
+          <e p="reset.css" t="Include" />
+          <e p="responsive.css" t="Include" />
+          <e p="style.css" t="Include" />
+        </e>
+        <e p="fonts" t="Include">
+          <e p="et-line.eot" t="Include" />
+          <e p="et-line.svg" t="Include" />
+          <e p="et-line.ttf" t="Include" />
+          <e p="et-line.woff" t="Include" />
+          <e p="et-lined41d.eot" t="Include" />
+          <e p="fontawesome-webfont3e6e.eot" t="Include" />
+          <e p="fontawesome-webfont3e6e.svg" t="Include" />
+          <e p="fontawesome-webfont3e6e.ttf" t="Include" />
+          <e p="fontawesome-webfont3e6e.woff" t="Include" />
+          <e p="fontawesome-webfont3e6e.woff2" t="Include" />
+          <e p="fontawesome-webfontd41d.eot" t="Include" />
+          <e p="glyphicons-halflings-regular.eot" t="Include" />
+          <e p="glyphicons-halflings-regular.svg" t="Include" />
+          <e p="glyphicons-halflings-regular.ttf" t="Include" />
+          <e p="glyphicons-halflings-regular.woff" t="Include" />
+          <e p="glyphicons-halflings-regular.woff2" t="Include" />
+          <e p="glyphicons-halflings-regulard41d.eot" t="Include" />
+          <e p="ionicons28b5.eot" t="Include" />
+          <e p="ionicons28b5.svg" t="Include" />
+          <e p="ionicons28b5.ttf" t="Include" />
+          <e p="ionicons28b5.woff" t="Include" />
+          <e p="Material-Design-Iconic-Fontd1f1.ttf" t="Include" />
+          <e p="Material-Design-Iconic-Fontd1f1.woff" t="Include" />
+          <e p="Material-Design-Iconic-Fontd1f1.woff2" t="Include" />
+        </e>
+        <e p="img" t="Include">
+          <e p="About" t="Include">
+            <e p="5f17adc2-08f3-4916-9b84-326275e14ef4blog-feature-img-1.jpg" t="Include" />
+            <e p="about.png" t="Include" />
+          </e>
+          <e p="banner" t="Include">
+            <e p="banner.jpg" t="Include" />
+          </e>
+          <e p="Blog" t="Include">
+            <e p="blog-detail.jpg" t="Include" />
+            <e p="blog-img.jpg" t="Include" />
+            <e p="blog1.jpg" t="Include" />
+            <e p="blog2.jpg" t="Include" />
+            <e p="blog3.jpg" t="Include" />
+            <e p="blog4.jpg" t="Include" />
+            <e p="blog5.jpg" t="Include" />
+            <e p="blog6.jpg" t="Include" />
+            <e p="blog7.jpg" t="Include" />
+            <e p="blog8.jpg" t="Include" />
+            <e p="blog9.jpg" t="Include" />
+          </e>
+          <e p="choose" t="Include">
+            <e p="choose-bd.jpg" t="Include" />
+            <e p="choose.png" t="Include" />
+          </e>
+          <e p="Contact" t="Include">
+            <e p="contact1.png" t="Include" />
+            <e p="contact2.png" t="Include" />
+            <e p="contact3.png" t="Include" />
+          </e>
+          <e p="Course" t="Include">
+            <e p="093f7bba-8e11-4b66-93dd-b114a46137ceevent10.jpg" t="Include" />
+            <e p="0d2a9010-16df-4c17-813d-abf08fefced8teacher6.jpg" t="Include" />
+            <e p="18aea423-d6a7-4f35-ae85-7d44c2e88914course2.jpg" t="Include" />
+            <e p="406c7801-e555-4b1a-97a8-916730e99f16event2.jpg" t="Include" />
+            <e p="6dbbba30-0726-488a-a3ea-5b7cffe8b011course1.jpg" t="Include" />
+            <e p="85cf052e-d1e1-4fb3-8264-12b66619ea1acourse1.jpg" t="Include" />
+            <e p="9e0f8ed3-1f81-42f3-bb8f-c97bf6f680f9WhatsApp Image 2020-07-07 at 06.28.17.jpeg" t="Include" />
+            <e p="course-bg.jpg" t="Include" />
+            <e p="course1.jpg" t="Include" />
+            <e p="course2.jpg" t="Include" />
+            <e p="course3.jpg" t="Include" />
+            <e p="course4.jpg" t="Include" />
+            <e p="course5.jpg" t="Include" />
+            <e p="course6.jpg" t="Include" />
+            <e p="course7.jpg" t="Include" />
+            <e p="course8.jpg" t="Include" />
+            <e p="course9.jpg" t="Include" />
+            <e p="courses-details.jpg" t="Include" />
+            <e p="de35a6ad-7a74-4629-a950-167885e4f3dbevent7.jpg" t="Include" />
+            <e p="e9627617-250d-4ae6-8411-a85ceb4d93d2teacher7.jpg" t="Include" />
+            <e p="fc5416a2-5696-4f02-b3b7-b97c29c337efteacher7.jpg" t="Include" />
+          </e>
+          <e p="Event" t="Include">
+            <e p="0b7b022d-f029-4a43-bcf5-f5638e276f3cevent7.jpg" t="Include" />
+            <e p="198f559d-ca51-4e64-af6c-685d059450baWhatsApp Image 2020-07-07 at 06.28.17.jpeg" t="Include" />
+            <e p="1b43fbf7-c53b-4038-bd60-a071254767759ca40f26-af21-49eb-9e14-9bb8dcfa7540event13.jpg" t="Include" />
+            <e p="277598dd-e3c4-4e47-b380-185701341c19favicon.png" t="Include" />
+            <e p="2af8392c-1e48-4f08-b0c7-f05420abfacd0b7b022d-f029-4a43-bcf5-f5638e276f3cevent7.jpg" t="Include" />
+            <e p="2dd4a852-2a59-49f4-8968-a13eb93fcacaevent8.jpg" t="Include" />
+            <e p="41fb2db7-aa55-4a28-9438-14d6f9b5f3adWhatsApp Image 2020-07-07 at 06.28.17.jpeg" t="Include" />
+            <e p="49b34e11-d325-4f4f-aa51-7f3008b14f79favicon.png" t="Include" />
+            <e p="582e6b68-f617-46db-a901-3dc280c914ef0b7b022d-f029-4a43-bcf5-f5638e276f3cevent7.jpg" t="Include" />
+            <e p="594fc447-a4b6-4751-9e73-8c1c25319651event7.jpg" t="Include" />
+            <e p="5dbbd269-412f-4552-8967-bc45613bc552footer-bottom-1.png" t="Include" />
+            <e p="6485be69-4729-4327-921d-36554a2540dcevent7.jpg" t="Include" />
+            <e p="7df15a2a-0e21-4636-9ec8-5b66b86a63920b7b022d-f029-4a43-bcf5-f5638e276f3cevent7.jpg" t="Include" />
+            <e p="9723ba49-cf8f-49ff-8bef-00435bfdc88dh2-sign-img.png" t="Include" />
+            <e p="9ca40f26-af21-49eb-9e14-9bb8dcfa7540event13.jpg" t="Include" />
+            <e p="cf9644f7-de19-4e2b-aaac-c50025547170blog-feature-img-1.jpg" t="Include" />
+            <e p="debf8557-f217-4303-a2a3-57a5d3b194370b7b022d-f029-4a43-bcf5-f5638e276f3cevent7.jpg" t="Include" />
+            <e p="eb27c973-ff5d-46c1-854f-9a7d8dafb7caevent13.jpg" t="Include" />
+            <e p="event-details.jpg" t="Include" />
+            <e p="event1.jpg" t="Include" />
+            <e p="event10.jpg" t="Include" />
+            <e p="event11.jpg" t="Include" />
+            <e p="event12.jpg" t="Include" />
+            <e p="event13.jpg" t="Include" />
+            <e p="event2.jpg" t="Include" />
+            <e p="event3.jpg" t="Include" />
+            <e p="event5.jpg" t="Include" />
+            <e p="event6.jpg" t="Include" />
+            <e p="event7.jpg" t="Include" />
+            <e p="event8.jpg" t="Include" />
+            <e p="event9.jpg" t="Include" />
+            <e p="f51f7ca0-4d4d-42ed-a103-13d2791ba575event7.jpg" t="Include" />
+            <e p="speaker1.jpg" t="Include" />
+            <e p="speaker2.jpg" t="Include" />
+          </e>
+          <e p="Footer" t="Include">
+            <e p="footer1.jpg" t="Include" />
+            <e p="footer2.jpg" t="Include" />
+            <e p="footer3.jpg" t="Include" />
+            <e p="footer4.jpg" t="Include" />
+          </e>
+          <e p="icon" t="Include">
+            <e p="section.png" t="Include" />
+            <e p="section1.png" t="Include" />
+          </e>
+          <e p="logo" t="Include">
+            <e p="1914bef6-bf31-4f2a-b197-c4f6e4de6271logo2.png" t="Include" />
+            <e p="fd4f528e-93b8-471c-a1dc-7d342c88f10e1914bef6-bf31-4f2a-b197-c4f6e4de6271logo2.png" t="Include" />
+            <e p="footer-logo.png" t="Include" />
+            <e p="logo.png" t="Include" />
+            <e p="logo2.png" t="Include" />
+          </e>
+          <e p="notice" t="Include">
+            <e p="video.jpg" t="Include" />
+          </e>
+          <e p="post" t="Include">
+            <e p="post1.jpg" t="Include" />
+            <e p="post2.jpg" t="Include" />
+            <e p="post3.jpg" t="Include" />
+          </e>
+          <e p="slider" t="Include">
+            <e p="0000cd32-e2bf-460b-bd7f-f452b931c6f1slider1.jpg" t="Include" />
+            <e p="043297b7-a516-4b1f-824e-a269e6aabb6dslider3.jpg" t="Include" />
+            <e p="29dd71a0-b0e2-4693-a4c4-f59504c31694slider2.jpg" t="Include" />
+            <e p="home.png" t="Include" />
+            <e p="slider1.jpg" t="Include" />
+            <e p="slider2.jpg" t="Include" />
+            <e p="slider3.jpg" t="Include" />
+          </e>
+          <e p="Teacher" t="Include">
+            <e p="026290ab-6123-4f3a-9bf9-a261de166d0cteacher3.jpg" t="Include" />
+            <e p="12f683ac-5617-4e6a-9ddf-d6eb1f8e3b0ateacher6.jpg" t="Include" />
+            <e p="145fcf5e-70e1-45ca-b172-3cdab78e7ed3WhatsApp Image 2020-07-07 at 06.27.58.jpeg" t="Include" />
+            <e p="3c1e9b58-b273-42da-80c8-020b637cb39dWhatsApp Image 2020-07-07 at 06.27.58.jpeg" t="Include" />
+            <e p="563032f5-47ce-4ebe-9614-4ab4ab7056a8h3-background-img.jpg" t="Include" />
+            <e p="59fb9aac-874f-4fb1-9a3b-e2cd6022bc50h3-background-img.jpg" t="Include" />
+            <e p="87b83872-41ab-40b2-aeba-2f224b4c9095teacher2.jpg" t="Include" />
+            <e p="ae6c9042-d5d0-40f6-a6fa-9b4cb2dc3316teacher4.jpg" t="Include" />
+            <e p="b833a6d4-2ab6-434b-8b60-6fd8881b4169teacher2.jpg" t="Include" />
+            <e p="bf089e86-82a1-4d48-a6f9-0f4e4149cf2bteacher7.jpg" t="Include" />
+            <e p="ed5e27c9-d43e-4ad3-9cf8-54cce0060f26Capture.PNG" t="Include" />
+            <e p="teacher-details.jpg" t="Include" />
+            <e p="teacher1.jpg" t="Include" />
+            <e p="teacher10.jpg" t="Include" />
+            <e p="teacher11.jpg" t="Include" />
+            <e p="teacher12.jpg" t="Include" />
+            <e p="teacher2.jpg" t="Include" />
+            <e p="teacher3.jpg" t="Include" />
+            <e p="teacher4.jpg" t="Include" />
+            <e p="teacher5.jpg" t="Include" />
+            <e p="teacher6.jpg" t="Include" />
+            <e p="teacher7.jpg" t="Include" />
+            <e p="teacher8.jpg" t="Include" />
+            <e p="teacher9.jpg" t="Include" />
+          </e>
+          <e p="Testimonial" t="Include">
+            <e p="testimonial-bg.jpg" t="Include" />
+            <e p="testimonial.jpg" t="Include" />
+          </e>
+        </e>
+        <e p="js" t="Include">
+          <e p="ajax-mail.js" t="Include" />
+          <e p="bootstrap.min.js" t="Include" />
+          <e p="jquery.magnific-popup.js" t="Include" />
+          <e p="jquery.mb.YTPlayer.js" t="Include" />
+          <e p="jquery.meanmenu.js" t="Include" />
+          <e p="jquery.nicescroll.min.js" t="Include" />
+          <e p="main.js" t="Include" />
+          <e p="owl.carousel.min.js" t="Include" />
+          <e p="plugins.js" t="Include" />
+          <e p="subscribe.js" t="Include" />
+          <e p="vendor" t="Include">
+            <e p="jquery-1.12.0.min.js" t="Include" />
+            <e p="modernizr-2.8.3.min.js" t="Include" />
+          </e>
+        </e>
+      </e>
+    </e>
+  </component>
+</project>
